@@ -1,9 +1,5 @@
 * Tasks
 ** TODO Finish merge-2-node-cols
-** TODO Add func to walk all the terminals ( Important for hackathon )
-** TODO Find a corpus of 20000 most frequently used terms.
-** TODO Add ranking, for now returning top 1 is enough.
-** TODO Add cache2steps function
 ** DONE Finish writing compare function
    CLOSED: [2010-12-01 Wed 11:23]
    - Note taken on [2010-12-01 Wed 11:40] \\
